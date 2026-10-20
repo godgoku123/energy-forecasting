@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+
+# Locally downloaded datasets
+data/
